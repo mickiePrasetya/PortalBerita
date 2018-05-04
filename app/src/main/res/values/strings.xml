@@ -3,4 +3,5 @@
     <string name="nama">Oleh : Fiqri Hafzain Islami</string>
     <string name="tgl_terbit">Sabtu, 12 Maret 2018</string>
     <string name="judul_berita">Judul Artikel Berita</string>
+    <string name="logout">Logout</string>
 </resources>

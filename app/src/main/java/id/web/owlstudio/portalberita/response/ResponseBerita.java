@@ -1,10 +1,9 @@
 package id.web.owlstudio.portalberita.response;
 
-import java.util.List;
-import javax.annotation.Generated;
 import com.google.gson.annotations.SerializedName;
 
-@Generated("com.robohorse.robopojogenerator")
+import java.util.List;
+
 public class ResponseBerita{
 
 	@SerializedName("berita")
